@@ -1,0 +1,43 @@
+.bodytext{
+	font-family: verdana;
+	font-size: 11px;
+}
+.linkset{
+	text-decoration:none; 
+}
+.header{
+	font-family: Arial;
+	font-size: 24px;
+	border: thin solid black;
+	text-align: center;
+	vertical-align: middle;
+	background-color: pink;
+	color: blue;
+	font-weight: bold;
+}
+.menu{
+	font-family: Verdana;
+	font-size: 11px;
+	color: Teal;
+	font-weight: bold;
+	text-decoration:none; 
+}
+.boxheader{
+	font-family: Verdana;
+	font-size: 10px;
+	border: 1px solid Teal;
+	text-align: center;
+	height: 18px;
+	color: black;
+	padding-top: 2px;
+	font-weight: bold;
+}
+.boxtext{
+	font-family: Verdana;
+	font-size: 10px;
+	border: 1px solid;
+}
+.boxtext2{
+	font-size: 10px;
+	font-family: Verdana;
+}
